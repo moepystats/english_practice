@@ -1,2 +1,2 @@
 # english_practice
-english practice
+あまりにも英語ができないので、諦めて英単語練習用のプログラムを自分で実装しました。
